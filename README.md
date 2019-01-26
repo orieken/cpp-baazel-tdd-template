@@ -1,6 +1,10 @@
 # cpp-baazel-tdd-template
 TDD in C++ with bazel build
 
+## Dependencies
+* bazel
+* googletest
+
 ## Build Status
 [![Build Status](https://travis-ci.com/orieken/cpp-baazel-tdd-template.svg?branch=master)](https://travis-ci.com/orieken/cpp-baazel-tdd-template)
 
