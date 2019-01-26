@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+.idea
+
+#bazel
+
+
+bazel-bin
+bazel-cpp-baazel-tdd-template
+bazel-genfiles
+bazel-out
+bazel-testlogs
